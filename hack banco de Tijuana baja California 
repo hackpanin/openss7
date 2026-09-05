@@ -1,0 +1,6 @@
+<com.example.library.BandCardEditText
+    android:id="@+id/et"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:text="622700187301032701"
+    android:background="#cccccc"/>
